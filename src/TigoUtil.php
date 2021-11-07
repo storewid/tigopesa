@@ -15,7 +15,7 @@ use GuzzleHttp\Client;
 use Log;
 use Throwable;
 
-class TigoUtil extends TigoConfigs
+class TigoUtil
 {
 
 
