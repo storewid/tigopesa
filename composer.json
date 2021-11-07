@@ -1,0 +1,43 @@
+{
+    "name": "storewid/tigopesa",
+    "description": "Tigopesa library for php developers",
+    "keywords": [
+        "storewid",
+        "tigopesa"
+    ],
+    "homepage": "https://github.com/storewid/tigopesa",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "storewid",
+            "email": "devs@storewid.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Storewid\\Tigopesa\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Storewid\\Tigopesa\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
