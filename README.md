@@ -7,11 +7,9 @@
 
 ## Version Matrix
 
-| Version | PHP Version     |
-| ------- | --------------- |
-| 1.0.0   | >= 8.0          |
-| 1.0.1   | >= 7.3 >= 8.0   |
-| 1.0.2   | >= 7.2.5 >= 8.0 |
+| Version | PHP Version |
+| ------- | ----------- |
+| 1.0.0   | >= 8.0      |
 
 You can install the package via composer:
 
