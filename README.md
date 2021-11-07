@@ -1,7 +1,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/storewid/tigopesa.svg?style=flat-square)](https://packagist.org/packages/storewid/tigopesa)
 [![Total Downloads](https://img.shields.io/packagist/dt/storewid/tigopesa.svg?style=flat-square)](https://packagist.org/packages/storewid/tigopesa)
 ![GitHub Actions](https://github.com/storewid/tigopesa/actions/workflows/main.yml/badge.svg)
-[![Storewid](https://img.shields.io/badge/Author-Emmanuel%20Mnzava-green)](mailto:devs@storewid.com)
+[![Storewid](https://img.shields.io/badge/Author-Storewid-green)](mailto:devs@storewid.com)
 
 ## Installation
 
