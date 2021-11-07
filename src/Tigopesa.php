@@ -98,8 +98,8 @@ class Tigopesa
     ) {
 
         $base_url = $this->endpoint;
-        $client_secret = $this->client_secret;
-        $client_id = $this->client_id;
+        $client_secret = $this->clientsecret;
+        $client_id = $this->clientid;
         $this->access_token();
 
         $api = new TigoUtil(
