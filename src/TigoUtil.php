@@ -8,9 +8,9 @@
  * This class contains all api calls ..
  */
 
-namespace Storewid\Tigosecure;
+namespace Storewid\Tigopesa;
 
-use Storewid\Tigosecure\Configs\V1\TigoConfigs;
+use Storewid\Tigopesa\Configs\V1\TigoConfigs;
 use Exception;
 use GuzzleHttp\Client;
 use Log;

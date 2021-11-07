@@ -8,7 +8,7 @@
  * This class contains all api calls ..
  */
 
-namespace Storewid\Tigosecure\Configs\V1;
+namespace Storewid\Tigopesa\Configs\V1;
 
 class TigoConfigs
 {

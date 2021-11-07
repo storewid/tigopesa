@@ -10,7 +10,6 @@
 
 namespace Storewid\Tigopesa;
 
-use Storewid\Tigosecure\TigoUtil;
 
 class Tigopesa
 {
